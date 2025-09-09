@@ -1,7 +1,7 @@
 /* Your CSS here. */
 .gray {
-    padding-top: 5;
-    padding-left: 5;
+    padding-top: 15;
+    padding-left: 15;
     vertical-align: middle;
     text-align: center;
     line-height: 1.5;
@@ -13,5 +13,6 @@
 
 .para {
     text-align: left;
+    word-wrap: normal;
 }
 
