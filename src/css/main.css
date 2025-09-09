@@ -1,14 +1,15 @@
 /* Your CSS here. */
 .gray {
-    text-align: center;
     vertical-align: middle;
+    text-align: center;
     line-height: 1.5;
     background-color: gray;
     color: white;
-    width: 70;
+    width: 60;
+    height: 80;
 }
 
 .para {
-    margin-left: 20px;
+    padding-left: 30px;
 }
 
