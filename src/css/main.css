@@ -1,15 +1,17 @@
 /* Your CSS here. */
 .gray {
+    padding-top: 5;
+    padding-left: 5;
     vertical-align: middle;
     text-align: center;
     line-height: 1.5;
     background-color: gray;
     color: white;
-    width: 60;
-    height: 80;
+    width: 80;
+    height: 60;
 }
 
 .para {
-    padding-left: 30px;
+    text-align: left;
 }
 
