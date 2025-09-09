@@ -1,7 +1,16 @@
 /* Your CSS here. */
-.center {
-    text-align: center;
+.gray {
     vertical-align: middle;
     line-height: 1;
+    background-color: gray;
+    color: white;
+}
+
+.centered {
+    text-align: center;
+}
+
+.paragraphs {
+    margin: 10;
 }
 
